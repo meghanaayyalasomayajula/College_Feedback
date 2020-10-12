@@ -1,10 +1,10 @@
 # flutter_app
 
 Flutter application for college feedback .
-## Complete information about all the colleges in the city> 
-## Login using otp
-## Review colleges anonymously
-## View all the feedbacks given by other users
+- Complete information about all the colleges in the city> 
+- Login using otp
+- Review colleges anonymously
+- View all the feedbacks given by other users
 
 ## Getting Started
 
